@@ -12,5 +12,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_WEBAPP_37E09 }}'
-          projectId: webapp-37e09
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_QUANTICHEART_D746C }}'
+          projectId: quanticheart-d746c
